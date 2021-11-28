@@ -1,0 +1,24 @@
+---
+title: "R Markdown Documents - Part 1"
+subtitle: "Analysis of Environmental Data"
+author: "Andrew Gordon"
+output: 
+  html_document:
+   toc: true
+   toc_float: true
+---
+# Introduction
+**Andrew Gordon** 
+*Environmental Conservation*
+
+# Concepts List
+1. Basic R codes
+2. Plots, Packages, Plugins
+3. Navigating RStudio
+
+# Course List
+* Intergroup Dialogue Project
+* Introduction to Field Biology
+* Mammalogy Lecture and Lab
+* Afro-Asia: Food, Futurism, and Feminism
+
